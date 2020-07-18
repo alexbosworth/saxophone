@@ -1,5 +1,5 @@
 {
-  "name": "saxophone",
+  "name": "@alexbosworth/saxophone",
   "description": "Fast and lightweight event-driven XML parser in pure JavaScript",
   "version": "0.6.2",
   "license": "MIT",
